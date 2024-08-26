@@ -1,10 +1,3 @@
-let banner = document.querySelector('.banner')
-let darkBtn = document.querySelector('#dark')
-let lightBtn = document.querySelector('#light')
-
-
-
-
 
 let typingText = new Typed('#text', {
     strings: ["Vxrcel", "Designer", "Pulse", "Gamer", "Wudan"],
