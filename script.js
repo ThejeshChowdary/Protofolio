@@ -1,3 +1,8 @@
+let banner = document.querySelector('.banner')
+let darkBtn = document.querySelector('#dark')
+let lightBtn = document.querySelector('#light')
+
+
 
 
 
